@@ -1,0 +1,1 @@
+For instructions on setting up and running the FastAPI application, refer to the FastAPI Application Documentation included in this repository. The documentation provides comprehensive details on deployment, available endpoints, and their usage to ensure you can get the application up and running smoothly.
